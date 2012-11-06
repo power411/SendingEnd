@@ -2,14 +2,14 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Users/abood/SendingEnd/Sending end.brd
 
-Start at      : 21:12:07 (11/5/12)
-End at        : 21:12:07 (11/5/12)
+Start at      : 23:00:25 (11/5/12)
+End at        : 23:00:25 (11/5/12)
 Elapsed time  : 00:00:00
 
-Signals       :    29   RoutingGrid: 50 mil  Layers: 2
-Connections   :    43   predefined:  37 ( 3 Vias )
+Signals       :    30   RoutingGrid: 50 mil  Layers: 2
+Connections   :    48   predefined:  37 ( 14 Vias )
 
-Router memory :   11232
+Router memory :   10812
 
 Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
 
@@ -18,8 +18,8 @@ Number of Ripups  :         0         0         0         0         0
 max. Level        :         0         0         0         0         0
 max. Total        :         0         0         0         0         0
 
-Routed            :         0         6         6         6         6
+Routed            :         0        11        11        11        11
 Vias              :         0         0         0         0         0
-Resolution        :    86.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Resolution        :    77.1 %   100.0 %   100.0 %   100.0 %   100.0 %
 
 Final             : 100.0% finished
